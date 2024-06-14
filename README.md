@@ -31,6 +31,12 @@ Data Processing Link: https://www.kaggle.com/datasets/husainsb/lendingclub-issue
 
 ### Data Visualizations:
 "Initial visualizations helped us identify key patterns and refine our analysis approach."
+![Screenshot 2024-06-13 165028](https://github.com/SaiKrishnaIyer/Business-Analytics-VIP/assets/113880966/ea0ad4fa-3d29-420d-b986-ec2210f0050c)
+![Screenshot 2024-06-13 164846](https://github.com/SaiKrishnaIyer/Business-Analytics-VIP/assets/113880966/ae429a6b-c640-44f1-a22e-59d01539d827)
+![Screenshot 2024-06-13 164322](https://github.com/SaiKrishnaIyer/Business-Analytics-VIP/assets/113880966/8634fba4-a87a-4ab2-bbf8-15a252577ec9)
+![Screenshot 2024-06-13 164120](https://github.com/SaiKrishnaIyer/Business-Analytics-VIP/assets/113880966/8c6b8dd9-48a7-44bc-98bf-7b8f57f46478)
+![Screenshot 2024-06-13 164000](https://github.com/SaiKrishnaIyer/Business-Analytics-VIP/assets/113880966/fc7638e0-81b2-4dda-b70f-534ef35cbd2d)
+![Screenshot 2024-06-13 162937](https://github.com/SaiKrishnaIyer/Business-Analytics-VIP/assets/113880966/64e41f51-11d9-43a0-87ca-23a4f93872a6)
 
 ### Dashboard:
 "User feedback was incorporated to improve dashboard layout and functionality."
